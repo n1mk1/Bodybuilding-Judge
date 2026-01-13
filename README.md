@@ -2,11 +2,13 @@
 
 An automated judging system that uses computer vision and machine learning to evaluate bodybuilding competitors across multiple scoring criteria. The system analyzes physique photos to provide objective, quantifiable assessments similar to professional competition judging standards.
 
-![athlete1_back_double_bicep](https://github.com/user-attachments/assets/e21db7aa-70e1-4257-9400-34b1dab2950a)
-![athlete1_front_double_bicep](https://github.com/user-attachments/assets/da18788a-51f1-4a44-8815-4bdc7a995ff4)
-<img width="474" height="846" alt="athlete2_back_double_bicep" src="https://github.com/user-attachments/assets/9a3564c4-d2c1-47cf-a63a-04f4032ca7a1" />
-<img width="469" height="842" alt="athlete2_front_double_bicep" src="https://github.com/user-attachments/assets/d4c28348-32cf-4fe7-bc03-63e5ed7ca8ec" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e21db7aa-70e1-4257-9400-34b1dab2950a" width="200"/>
+  <img src="https://github.com/user-attachments/assets/da18788a-51f1-4a44-8815-4bdc7a995ff4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9a3564c4-d2c1-47cf-a63a-04f4032ca7a1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d4c28348-32cf-4fe7-bc03-63e5ed7ca8ec" width="200"/>
+</p>
 
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
