@@ -136,12 +136,12 @@ visualizer.display_results(result_image)
 
 ```
 bodybuilding-judge/
+├── UI/UI.py
 ├── poseClassifier.py      # Pose detection and image organization
 ├── xframe.py              # Proportions and frame analysis
 ├── conditioning.py        # Muscle conditioning assessment
 ├── README.md              # Project documentation
 ├── .gitignore            # Git ignore rules
-├── requirements.txt       # Python dependencies (create this)
 └── images --> Remove all current test images. Input your own images for Front double bicep and Back double bicep for both athletes i.e 4 images
 ```
 
