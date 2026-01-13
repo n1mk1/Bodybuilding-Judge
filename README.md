@@ -221,19 +221,3 @@ class AnalysisConfig:
 - [ ] Calibration system for different lighting conditions
 
 ## License Creative Commons BY-NC-SA 4.0 license
-
-## Sample Output
-
-```
-============================================================
-CONDITIONING ANALYSIS RESULTS
-============================================================
-Muscle Detail:     8.45
-Muscle Separation: 42.18
-Vascularity:       15.67
-Skin Tightness:    24.32
-------------------------------------------------------------
-OVERALL SCORE:     73.4/100
-GRADE:             EXCELLENT
-============================================================
-```
