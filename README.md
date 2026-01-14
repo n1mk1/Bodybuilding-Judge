@@ -4,7 +4,7 @@ An automated judging system that uses computer vision and machine learning to ev
 
 <p align="center">
   <img src="https://github.com/n1mk1/Bodybuilding-Judge/blob/main/bd_judge/ui_image.png" width="200"/>
-  <img src="URL_TO_YOUR_SECOND_IMAGE" width="200"/>
+  <img src="https://github.com/n1mk1/Bodybuilding-Judge/blob/main/bd_judge/ui_image2.png" width="200"/>
   <img src="https://github.com/user-attachments/assets/e21db7aa-70e1-4257-9400-34b1dab2950a" width="200"/>
   <img src="https://github.com/user-attachments/assets/da18788a-51f1-4a44-8815-4bdc7a995ff4" width="200"/>
   <img src="https://github.com/user-attachments/assets/9a3564c4-d2c1-47cf-a63a-04f4032ca7a1" width="200"/>
