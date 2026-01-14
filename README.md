@@ -2,6 +2,8 @@
 
 An automated judging system that uses computer vision and machine learning to evaluate bodybuilding competitors across multiple scoring criteria. The system analyzes physique photos to provide objective, quantifiable assessments similar to professional competition judging standards.
 
+bd_judge/ui_image.png
+bd_judge/ui_imag2.png
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e21db7aa-70e1-4257-9400-34b1dab2950a" width="200"/>
